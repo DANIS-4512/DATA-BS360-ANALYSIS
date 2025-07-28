@@ -1,0 +1,32 @@
+# Business Insight 360 - User Guide
+
+This guide outlines the dashboard pages and how to interact with your Business Insight 360 Power BI report.
+
+## Dashboard Pages & Features
+
+### 1. Finance View
+- **Profit and Loss Statement:** Full breakdown by line item (manufacturing this repository.
+2. Open `BusinessInsight360.pbix` in Power BI Desktop.
+3. Connect your data sources or use the included sample data.
+4. Explore the dashboard pages and interact with slicers/filters for insights.
+
+## File Structure
+
+```
+BusinessInsight360/
+├── README.md
+├ cost, gross margin, net profit, expenses)
+- **Trend Analysis── DataSources/
+│   └── SampleData.xlsx
+├── BusinessInsight:** Performance over time (monthly, quarterly, yearly)
+- **Region/Segment Drilldown:** Filter by region360.pbix
+└── Documentation/
+    └── UserGuide.md
+```
+
+## License
+This project is licensed under the danish raza
+
+### MIT License.
+## Author
+Danish Raza
