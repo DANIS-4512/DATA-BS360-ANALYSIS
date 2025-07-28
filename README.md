@@ -65,6 +65,7 @@ This project is licensed under the MIT License inventory risks.
 
 ## How to Use
 1.  TO Download visit linkedin : www.linkedin.com/in/danishraza7.
+2. The online Power BI dashboard link is ::https://app.powerbi.com/links/28ywNMwLJ0?ctid=41d661bc-64ab-4f9c-b772-7a79572ae93f&pbi_source=linkShare
 
 ## Author
 
